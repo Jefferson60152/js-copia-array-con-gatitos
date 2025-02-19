@@ -1,6 +1,6 @@
 # Copias de Arrays en JavaScript con Gatitos
 
-
+![Copia Array con Gatitos](https://raw.githubusercontent.com/sergiecode/js-copia-array-con-gatitos/refs/heads/main/js-array-copy.jpg)
 
 ## Introducción
 En JavaScript, cuando copiamos un array de manera incorrecta, podría seguir apuntando al mismo lugar en memoria (referencia compartida), lo que puede causar efectos secundarios inesperados. 
