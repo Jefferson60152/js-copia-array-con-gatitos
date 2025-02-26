@@ -32,3 +32,5 @@ const copia7 = [];
 for (let i = 0; i < original7.length; i++) {
     copia7[i] = original7[i];
 }
+
+console.log("practicando")
